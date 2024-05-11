@@ -77,7 +77,7 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"jar": "./libs/jar/HCCX.jar",
-		"ext": "./libs/hccx/美食合集.json"
+		"ext": "./libs/hccx/哔哩美食.json"
     },
   {
       "key": "drpy_js_310直播",
@@ -153,6 +153,19 @@
 		 "jar": "./libs/jar/HCCX.jar",
 		 "ext": "./libs/hccx/搭配.json"
 	},
+	        {
+            "key": "csp_FirstAid",
+            "name": "🚑┃急救┃教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
+        },
 
         {
             "key": "nangua",
@@ -617,19 +630,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_FirstAid",
-            "name": "🚑┃急救┃教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            },
-            "gridview": "0-0-4.1"
-        },
+
    
         {
             "key": "七夜",
