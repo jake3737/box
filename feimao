@@ -841,7 +841,14 @@
         }
     ],
     "lives": [
-	     {"name": "幸福老罗","type": 0,"url": "./libs/tv/1.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+		{
+            "name": "幸福老罗",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "url": "https://cdn.jsdelivr.net/gh/jake3737/tvbox@main/ds/1.txt",
+            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "直播综合",
             "ua": "okhttp/3.15",
