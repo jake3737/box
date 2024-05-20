@@ -1,4 +1,4 @@
-//{"key": "商店","name": "🎰┃蜂蜜┃商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./libs/jar/app.jar"},
+//{"key": "商店","name": "🎰┃我的┃应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "https://fm.t4tv.hz.cz/json/market.json","jar": "./libs/jar/app.jar"},
 [
   {
     "name": "推薦",
