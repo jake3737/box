@@ -17,15 +17,6 @@
             "playerType": 2,
             "searchable": 0
         },
-		{
-            "key": "应用商店",
-            "name": "我的┃应用商店",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/tvbox/master/app/apks.json"
-        },
 	{
 	   "key":"cctv",
 	   "name":"📺央视｜大全",
