@@ -11,9 +11,9 @@
       },
       {
                  "name": "OK影视",
-                "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk",
+                "url": "https://raw.cachefly.998111.xyz/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk",
                 "icon": "http://liucn.cc/box/img/img_1.png",
-                "version": "v2.3.4"
+                "version": "v8a"
       }
     ]
   },
