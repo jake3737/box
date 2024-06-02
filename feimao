@@ -1080,7 +1080,7 @@
             "name": "直播B站",
             "ua": "AptvPlayer/1.3.3",
             "type": 0,
-            "url": "https://cdn.jsdelivr.net/gh/Kimentanm/aptv@master/m3u/bi.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Navezjt/JCTN/dc36fb00ef058528b0fa77dea35949207ae2fd51/beinsports-haber.m3u8",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
