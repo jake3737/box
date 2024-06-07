@@ -1061,10 +1061,10 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "直播Ytb",
+            "name": "159169直播",
             "ua": "AptvPlayer/1.3.3",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/b0d0e554ab8706ad9483f83836ec524bb2ff5064/youtube.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/159169.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -1076,20 +1076,20 @@
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+        {
+            "name": "体育直播",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ohjust/IPTV/72ec1bd905968a51276b3213107b083e292be757/1.m3u",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "直播V6",
             "ua": "okhttp/3.15",
             "type": 0,
             "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv6.txt",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-
-        {
-            "name": "直播全球",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://tang.hz.cz/zb/tv?type=169&token=235b2292",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
