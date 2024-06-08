@@ -1099,6 +1099,13 @@
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+    {
+      "name": "端午源",
+      "type": 0,
+      "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
         {
             "name": "爆谷，体育",
             "ua": "okhttp/3.15",
