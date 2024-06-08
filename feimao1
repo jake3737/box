@@ -1093,14 +1093,19 @@
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-        {
-            "name": "直播V6",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://raw.cachefly.998111.xyz/zengchaoqun0625/movies/main/ds/ipv6.txt",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
+    {
+      "name": "4GTV-HD",
+      "type": 0,
+      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name":"🐵OuHua Live",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     }
     ],
     "rules": [
         {
