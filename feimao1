@@ -1037,7 +1037,7 @@
     ],
 	    "lives": [
         {
-            "name": "直播618",
+            "name": "网友自用",
             "ua": "okhttp/3.15",
             "type": 0,
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/tvbox/master/maotv.txt",
