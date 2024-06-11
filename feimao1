@@ -4,9 +4,24 @@
 
    "sites": [
      {"key": "csp_douban","name": "💮幸福老罗","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
-    {"key": "酷看","name": "💡┃酷看┃秒播","type": 3,"api": "csp_Kkys","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1
+     {
+      "key": "泥巴",
+      "name": "泥巴影視",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
-	    {"key": "APP商店","name": "🎰┃我的┃应用商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext": "./libs/market.json","jar": "./libs/jar/app.jar"},
+	    {
+      "key": "inmi",
+      "name": "映迷",
+      "type": 0,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
 	   "key":"cctv",
 	   "name":"📺央视｜大全",
