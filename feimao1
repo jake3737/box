@@ -264,6 +264,29 @@
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+    {
+      "name": "四季TV",
+      "type": 0,
+      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+            "name": "自动更新",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zjykfy/ykfy/main/live-online.m3u",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+	        {
+            "name": "测试频道",
+            "ua": "okhttp/3.15",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zjykfy/ykfy/main/test.m3u",
+            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
         {
             "name": "直播综合",
             "ua": "okhttp/3.15",
@@ -298,13 +321,7 @@
 	"logo": "https://epg.112114.xyz/logo/{name}.png"
     },
 
-    {
-      "name": "四季TV",
-      "type": 0,
-      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
+
     {
       "name":"歐華TV",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
@@ -332,22 +349,7 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-		        {
-            "name": "自动更新",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zjykfy/ykfy/main/live-online.m3u",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-	        {
-            "name": "测试频道",
-            "ua": "okhttp/3.15",
-            "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/zjykfy/ykfy/main/test.m3u",
-            "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
+
         {
             "name": "爆谷，体育",
             "ua": "okhttp/3.15",
