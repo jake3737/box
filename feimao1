@@ -69,20 +69,7 @@
 	   "jar": "./libs/jar/HCCX.jar",
 	   "ext": "./libs/hccx/体育.json"
 	},
-
-  {
-      "key": "drpy_js_310直播",
-      "name": "🏀┃体育┃直播",
-      "type": 3,
-      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "ext": "http://dt.xn--yety82d.love/js/310直播.js"
-    },
-	    {
+	{
       "key": " 在线┃直播1",
       "name": "📺┃竞技┃直播",
       "type": 3,
@@ -92,6 +79,17 @@
       "style": {
         "type": "rect",
         "ratio": 1.68
+      }
+    },
+    {
+      "key": "看球",
+      "name": "🌐88┃看球┃体育",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "list"
       }
     },
 		{
