@@ -35,16 +35,7 @@
 	   "jar": "./libs/jar/HCCX.jar",
 	   "ext":"./libs/hccx/央视大全.json"
 	},
-	{
-      "key": "py_cctv",
-      "name": "❤️┃央视┃大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "./lib/cctv.py"
-    },
+
 	{
 	   "key":"央视经典",
 	   "name":"📺央视｜经典",
@@ -114,9 +105,9 @@
 	  "changeable":0,
 	  "ext":"https://gitcode.net/wexfnw/wex/-/raw/master/qie.json"
 	},
-	{"key":"drpy_js_310直播","name":"🏀┃体育┃直播","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","changeable":0,"gridview":3,"style":{"type":"list"},"ext":"http://dt.xn--yety82d.love/js/310直播.js"},
+	{"key":"drpy_js_310直播","name":"🏀┃体育┃1直播","type":3,"api":"http://dt.xn--yety82d.love/js/lib/drpy2.min.js","changeable":0,"gridview":3,"style":{"type":"list"},"ext":"http://dt.xn--yety82d.love/js/310直播.js"},
 	{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
-		{"key":"88js","name":"⚽ 88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
+		{"key":"88js","name":"⚽ 旧88┃看球","type":3,"api":"csp_Kanqiu","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽ Jrs┃球迷","type": 3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},"searchable": 0,"quickSearch": 0,"changeable":0},
 
@@ -269,7 +260,16 @@
 {"key":"弹幕配置","name":"⚙️弹幕┃高级┃设置","type":3,"api":"csp_Config","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"doudouxie","name":"🐋玩偶哥哥┃4K弹幕","type":3,"api":"csp_Wogg","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","wogg":true,"danmu":true},"timeout":30},{"key":"七夜","name":"🌖┃七夜┃网盘","type":3,"api":"csp_Dovx","ext":"http://127.0.0.1:9978/file/fatcat/token.txt"},
 
-
+	{
+      "key": "py_cctv",
+      "name": "❤️┃央视┃大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./lib/cctv.py"
+    },
 {"key":"土豆","name":"🥔土豆┃网盘","type":3,"api":"csp_Wextudou","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"Wexyingchao","name":"🦜鸟巢┃网盘","type":3,"api":"csp_Wexyingchao","searchable":1,"changeable":1,"jar":"https://gitee.com/huaitingpeng/movies/raw/main/jar/wex/wex.txt"},
 {"key":"push_agent","name":"温馨提示：个人使用","type":3,"api":"csp_Push","playerType":"1","searchable":0,"ext":"http://127.0.0.1:9978/file/fatcat/token.txt"}],
