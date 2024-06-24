@@ -382,10 +382,10 @@
     },
 
         {
-            "name": "爆谷，体育",
+            "name": "高清央视",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ohjust/IPTV/72ec1bd905968a51276b3213107b083e292be757/1.m3u",
+            "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
