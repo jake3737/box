@@ -275,10 +275,10 @@
 {"name":"💮幸福老罗","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},{"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}],
 	    "lives": [
         {
-            "name": "网友自用",
+            "name": "NOW直播",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/tvbox/master/maotv.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/NOW.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -389,10 +389,10 @@
     },
 
         {
-            "name": "高清央视",
+            "name": "网友自用",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jake3737/tvbox/master/maotv.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
