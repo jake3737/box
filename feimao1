@@ -278,7 +278,7 @@
             "name": "NOW直播",
             "ua": "okhttp/3.15",
             "type": 0,
-            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/NOW.txt",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/kan31467/1/main/tv/159169.txt",
             "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
