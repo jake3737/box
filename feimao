@@ -584,7 +584,7 @@
 
 "parses":[{"name":"Json聚合","type":3,"url":"Demo"},{"name":"Web聚合","type":3,"url":"Web"},
 {"name":"💮幸福老罗","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},{"name":"肥猫最可爱","type":1,"url":"http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}}],
-"lives":[
+	    "lives": [
           {
             "name": "NOW爆谷",
             "ua": "okhttp/3.15",
@@ -593,8 +593,9 @@
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
 {
-	"name": "央视/台湾",
+	"name": "央视台湾",
 	"type": 0,
 	"url": "https://tv543.cc/list.php",
         "playerType": 1,
