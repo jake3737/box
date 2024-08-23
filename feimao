@@ -12,29 +12,7 @@
       "searchable": 0,
       "changeable": 1
     },
-{
-      "key": "T4-安博",
-      "name": "安博(T4)",
-      "type": 4,
-      "api": "https://tang.hz.cz/power/ub18?token=b6082eb1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0
-    },
-	{
-      "key": "sgys1",
-      "name": "影視備用源①",
-      "type": 1,
-      "api": "https://api.huaren.live/api.php/tvbox",
-      "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
-      "header": {
-        "User-Agent": "okhttp/3.12.13"
-      },
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
       "key": "荐片",
       "name": "荐片",
